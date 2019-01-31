@@ -15,6 +15,8 @@ def long_planeteer_calls(calls)
   end
 end
 
+cheddar_cheese = ["banana", "cheddar", "sock"]
+
 def find_the_cheese(cheese_types)
   cheese_types = ["cheddar", "gouda", "camembert"]
 if cheddar_cheese.include? "cheddar" do
