@@ -15,16 +15,6 @@ def long_planeteer_calls(calls)
   end
 end
 
-#cheddar_cheese = ["banana", "cheddar", "sock"]
-#no_cheese = ["ham", "cellphone", "computer"]
-
-def find_the_cheese(cheese_types)
+def find_the_cheese(enter_arg_here)
   cheese_types = ["cheddar", "gouda", "camembert"]
-if cheddar_cheese.include? "cheddar" do
-   cheddar_cheese.find do |x|
-     x."cheddar"
-   else 
-     puts nil
-   end
-  end
 end
